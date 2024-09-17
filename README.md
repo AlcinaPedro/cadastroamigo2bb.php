@@ -1,0 +1,1 @@
+# cadastroamigo2bb.php
